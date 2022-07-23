@@ -1,0 +1,14 @@
+{
+  "name": "atividade-online-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contagem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
